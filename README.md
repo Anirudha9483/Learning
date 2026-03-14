@@ -6,3 +6,4 @@ JAVASCRIPT
 React
 Terminal
 GIt & GitHub
+new clone
